@@ -1,0 +1,19 @@
+font-family: 'myriad-bold';
+font-family: 'myriad-light';
+font-family: 'myriad-regular';
+font-family: 'myriad-semibold';
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+
+<i class="fas fa-link"></i>
+<i class="fas fa-star"></i>
+
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                <a href="#"><i class="fab fa-behance"></i></a>
+
+<i class="fas fa-phone-alt"></i>
+<i class="fas fa-envelope"></i>
+<i class="fas fa-globe-asia"></i>
